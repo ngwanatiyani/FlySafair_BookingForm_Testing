@@ -7,6 +7,6 @@ Welcome to the FlySafair Booking Test Automation project! This program leverages
 - Java 11 or higher ☕.
 - IDE of your choice.
 - Maven (optional, for dependencies management).
-- ChromeDriver for Selenium 🚀.
-- JUnit 5 for testing 🧪.
-- Internet Connection 🌐.
+- ChromeDriver for Selenium🚀.
+- JUnit 5 for testing🧪.
+- Internet Connection🌐.
